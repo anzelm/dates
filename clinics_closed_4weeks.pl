@@ -5,6 +5,8 @@
 #
 #        USAGE: ./clinics_closed.pl  
 #
+#SPDX-License-Identifier: MIT
+
 
 $week_days = 261;
 $clinics_closed = 11;
