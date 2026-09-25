@@ -68,6 +68,7 @@ Outputs (in --out-dir)
   synthetic_cohort_profile.json       the profile actually used (provenance)
 
 Author: A. Kudlicki et al.  Released under the repository license.
+#SPDX-License-Identifier: MIT
 """
 
 import argparse
