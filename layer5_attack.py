@@ -28,6 +28,8 @@ Usage:
 Reads: extract_outpatient_encounters.csv, extract_outpatient_labs.csv,
        extract_outpatient_procedures.csv
 """
+#SPDX-License-Identifier: MIT
+
 
 import pandas as pd
 import numpy as np
