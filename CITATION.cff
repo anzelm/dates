@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "dates: date-shift reidentification analysis and safety assessment"
+message: "If you use this software, please cite the article: Leveraging Routine Scheduling Patterns to Unshift Date-Shifted Clinical Data "
+type: software
+authors:
+  - family-names: Kudlicki
+    given-names: Andrzej
+    orcid: "https://orcid.org/0000-0001-8158-9600"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/anzelm/dates"
+
