@@ -5,6 +5,8 @@ Output: fig_dow_vs_weekend_rate.svg
 
 Usage:
   python3 sim_dow_vs_weekend.py [--patients 5000] [--shift 365]
+
+#SPDX-License-Identifier: MIT
 """
 
 import numpy as np
