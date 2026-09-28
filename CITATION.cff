@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-title: "dates: date-shift reidentification analysis and safety assessment"
-message: "If you use this software, please cite the article: Leveraging Routine Scheduling Patterns to Unshift Date-Shifted Clinical Data "
+title: "Leveraging Routine Scheduling Patterns to Unshift Date-Shifted Clinical Data"
+message: "If you use this software, please cite the accompanying article"
 type: software
 authors:
   - family-names: Kudlicki
